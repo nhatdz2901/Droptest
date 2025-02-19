@@ -56,7 +56,7 @@ loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/3b2169cf53bc61
 loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))(Settings)
   end
   })   AddButton(Tab1o, {
-  Name = "",
+  Name = "xero",
     Callback = function()
         getgenv().Team = "Marines"
 getgenv().Hide_Menu = false
